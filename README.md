@@ -1,37 +1,76 @@
-# Hi, I'm Pavel Dobes (@elprofesor24)
+Hi, I'm Pavel Dobeš
 
-Freelance AI & automation consultant based in Spain, open to global collaboration.
+AI Automation Architect | Workflow & Agent Builder
 
-I build AI tools and automations that solve real operational problems in businesses.
-I analyze processes, cut the unnecessary steps, and only then automate what actually makes sense.
-No hype, no theory – just what works in practice.
+I build AI agents, workflow automations, and internal systems that solve real operational problems inside businesses.
 
----
+Most companies do not have a technology problem first. They have a process problem.
 
-### What I do
+Data gets copied between tools, manually rewritten into documents, checked multiple times by different people, and slowly turns into operational chaos. People end up acting as connectors between systems that should already work together.
 
-- Design and build **AI agents** and workflow automations for small and mid-size businesses
-- Process analysis: what to keep, what to kill, what to automate
-- Connect AI with existing systems (email, CRM, reporting, internal tools)
-- Goal: less manual work, fewer errors, less chaos – not another tool on top
+My work usually starts before automation itself.
 
-### Tech & tools
+I look at:
+- how the process actually works
+- where data is created
+- who touches it
+- where logic exists only in someone's head
+- which steps should be removed instead of accelerated
 
-**AI & agents:** Claude, OpenAI, MCP servers, custom AI tooling
-**Automation:** n8n, Make, API integrations
-**Development:** JavaScript/TypeScript, Node.js, Python, Vue.js, TailwindCSS
-**Testing:** Cypress, Playwright
-**Infrastructure:** Git, Docker, CI/CD
-**Other:** SQL, REST APIs, webhooks, CRM systems
+Only then does it make sense to build the system.
 
-### How I work
+What I Build
 
-1. Understand how the business actually runs
-2. Find what slows things down, what repeats, what nobody needs
-3. Set up automation or an AI solution that fixes it
-4. Deploy, test, hand off
+- AI agents for operational workflows
+- Internal assistants and automation systems
+- Workflow orchestration and document processing
+- Integrations between APIs, databases, CRMs, and reporting systems
+- Internal tools designed around real business operations
 
----
+How I Think About AI
 
-📫 **pavel@dobesgang.cz**
-😄 Pronouns: he/him
+AI is not useful because it sounds impressive.
+
+It is useful when:
+- people stop wasting time on repetitive work
+- systems stop depending on manual coordination
+- information moves automatically instead of through copy-paste
+- operational logic becomes part of the software itself
+
+Most automation problems are not technical first.
+They are structural.
+
+Technology only helps after the process starts making sense.
+
+Current Focus
+
+Right now I mainly focus on:
+- AI-native workflows
+- agent systems
+- internal operational tools
+- local AI setups
+- knowledge systems and workflow orchestration
+
+I am especially interested in how AI changes the way software itself is designed, structured, and maintained.
+
+Tech Stack
+
+AI / Automation
+OpenAI, Claude, MCP, n8n, Make, custom AI tooling
+
+Development
+TypeScript, JavaScript, Node.js, Python, Vue.js, Tailwind CSS
+
+Infrastructure
+Docker, Git, CI/CD, REST APIs, SQL, webhooks
+
+Testing / Validation
+Playwright, Cypress, workflow testing, system validation
+
+Contact
+
+LinkedIn
+https://www.linkedin.com/in/paveldobes/
+
+Email
+pavel@dobesgang.cz
